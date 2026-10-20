@@ -8,3 +8,6 @@ A simple, practical guide to cloud services across AWS, Google Cloud (GCP), Micr
 Each service has a short note covering what it is, common use cases, key features, pricing basics, and a basic CLI or Terraform example. A comparison table maps equivalent services across clouds.
 
 This repo is updated regularly with new services and providers.
+
+
+
