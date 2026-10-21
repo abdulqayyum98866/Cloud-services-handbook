@@ -51,7 +51,7 @@ gcloud compute ssh YOUR_VM_NAME --zone=YOUR_ZONE
 ssh -i ~/.ssh/google_compute_engine YOUR_USERNAME@EXTERNAL_IP
 
 ```
-***Note*** Example: ssh -i ~/.ssh/google_compute_engine sabiyanaz@35.200.169.253
+***Note*** Example: ssh -i ~/.ssh/google_compute_engine you_useranme@35.200.169.253
 
 
 
